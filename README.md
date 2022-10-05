@@ -1,2 +1,2 @@
-# browsers-cloud
-Browsers Cloud - A headless browser as a Services - Generate PDFs, Images, etc
+# express-typescript-linting-scaffolding
+Scaffolding for Express + TypeScript + Linting
